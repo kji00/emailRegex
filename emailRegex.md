@@ -18,7 +18,6 @@ Using the pattern(s) above you can validate such things as emails or phone numbe
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
 
 ## Regex Components
 
